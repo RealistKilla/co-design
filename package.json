@@ -1,0 +1,20 @@
+{
+  "name": "co-design",
+  "version": "1.0.0",
+  "description": "A service that converts code into design and design into code.",
+  "main": "src/app.js",
+  "repository": "https://github.com/RealistKilla/co-design.git",
+  "author": "Tyler Thomas",
+  "license": "Ms-RSL",
+  "private": false,
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.6",
+    "@types/express": "^5.0.3",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "simple-git": "^3.28.0"
+  }
+}
